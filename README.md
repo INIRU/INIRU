@@ -9,7 +9,7 @@
 <h3 align="left">Content 📚</h3>
 
 - Discord: INIRU#0001
-- Mail: duswptkfkd59@naver.com
+- Mail: iniru@kakao.com
 
 <h3 align="left">ProJects 📋</h3>
 
