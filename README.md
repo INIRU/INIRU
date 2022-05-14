@@ -3,8 +3,7 @@
 
 <h3 align="left">Useful links 🔗</h3>
 
-- [Team. Warin](https://discord.gg/cGM4PcHvQq)
-- [Kakao](http://pf.kakao.com/_JkLxgK)
+- 
 
 <h3 align="left">Content 📚</h3>
 
