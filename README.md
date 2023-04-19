@@ -43,3 +43,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INIRU&layout=compact"> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=INIRU&show_icons=true">
 </p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:F0F0F0,70:00c6ff,100:0072ff&height=170&section=footer)
