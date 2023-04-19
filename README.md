@@ -37,3 +37,9 @@
         <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="">
   </a>
 </p>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INIRU&layout=compact"> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=INIRU&show_icons=true">
+</p>
