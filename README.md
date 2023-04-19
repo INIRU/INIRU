@@ -26,3 +26,14 @@
 </p>
 <br>
 <p align="center">🎨 <b>Learning</b> ✏️</p>
+<p align="center">
+  <a href="https://www.instagram.com/_syj0819/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="">
+  </a>
+  <a href="https://INIRU#0001">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" alt="">
+  </a>
+  <a href="https://iniru@kakao.com">
+        <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="">
+  </a>
+</p>
