@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/_syj0819/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="">
   </a>
-  <a href="[https://INIRU#0001](https://discord.com/users/340124004599988234)">
+  <a href="https://discord.com/users/340124004599988234">
         <img src="https://img.shields.io/badge/-INIRU#0001-5865F2?style=flat&logo=Discord&logoColor=white" alt="">
   </a>
   <a href="mailto:iniru@kakao.com">
