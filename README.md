@@ -31,10 +31,10 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="">
   </a>
   <a href="https://discord.com/users/340124004599988234">
-        <img src="https://img.shields.io/badge/-INIRU#0001-5865F2?style=flat&logo=Discord&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" alt="">
   </a>
   <a href="mailto:iniru@kakao.com">
-        <img src="https://img.shields.io/badge/-iniru@kakao.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="">
+        <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="">
   </a>
 </p>
 <br>
