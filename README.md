@@ -1,47 +1,99 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:F0F0F0,70:00c6ff,100:0072ff&height=170&text=INIRU&animation=fadeIn&fontColor=2A2F4F&fontSize=65&fontAlignY=35)
+<div align="center">
 
-<p align="center">👋 <b>Introduction</b> 👋</p>
-<p align="center">안녕하세요! <b>Web Front-End 개발자</b>를 꿈꾸고 있는<br>고등학생 개발자 입니다.</p>
-<br>
-<br>
+# Hi there, I'm INIRU <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-<p align="center">📚 <b>Language</b> 📚</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" alt="">
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=Dart&logoColor=white" alt="">
-</p>
-<br>
-<p align="center">✏️ <b>Learning</b> ✏️</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="">
-  <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" alt="">
-</p>
-<br>
-<p align="center">🎨 <b>Learning</b> ✏️</p>
-<p align="center">
-  <a href="https://www.instagram.com/_syj0819/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="">
-  </a>
-  <a href="https://discord.com/users/340124004599988234">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white" alt="">
-  </a>
-  <a href="mailto:iniru@kakao.com">
-        <img src="https://img.shields.io/badge/Mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="">
-  </a>
-</p>
-<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=435&lines=Full-Stack+Developer;University+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=INIRU&layout=compact"> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=INIRU&show_icons=true">
-</p>
+<img src="https://komarev.com/ghpvc/?username=INIRU&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile views" />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:F0F0F0,70:00c6ff,100:0072ff&height=170&section=footer)
+</div>
+
+---
+
+### About Me
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1">
+
+```zsh
+$ whoami
+```
+> **INIRU** - Full-Stack Developer & University Student
+
+```zsh
+$ cat skills.json
+```
+```json
+{
+  "languages": ["JavaScript", "TypeScript", "Python", "Dart"],
+  "frontend": ["React", "Next.js", "Vue.js"],
+  "backend": ["Node.js"],
+  "currently_learning": "Everything interesting",
+  "fun_fact": "I mass-produce bugs and mass-debug them"
+}
+```
+
+```zsh
+$ echo $CURRENT_STATUS
+```
+> Building awesome web applications & Breaking things to learn
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1">
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+**Languages**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=INIRU&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+### Connect with Me
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_syj0819/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/340124004599988234)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iniru@kakao.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:4834d4&height=2)
+
+**Thanks for visiting!**
+
+</div>
